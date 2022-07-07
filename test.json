@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "title": "斗破苍穹",
+      "id": 1,
+      "author": "李坤"
+    },
+    {
+      "title": "斗破苍穹",
+      "id": 2,
+      "author": "李坤"
+    },
+    {
+      "title": "斗破苍穹",
+      "id": 3,
+      "author": "李坤"
+    }
+  ],
+  "comments": [
+    {
+      "title": "斗破苍穹",
+      "id": 2,
+      "author": "李坤",
+      "postId":1
+    },
+    {
+      "title": "斗破苍穹",
+      "id": 2,
+      "author": "李坤",
+      "postId":1
+    },
+    {
+      "title": "斗破苍穹",
+      "id": 2,
+      "author": "李坤",
+      "postId":1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

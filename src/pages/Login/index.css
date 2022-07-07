@@ -1,0 +1,25 @@
+.mainner {
+  /* background: #2e2930; */
+  height: 100vh;
+  /* background-image: url("./1.image"); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#normal_login {
+  padding: 80px 70px;
+  width: 500px;
+  height: 370px;
+  /* margin: 175px auto; */
+  background-color: rgba(0, 0, 0, .4);
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, .5);
+}
+.login-form-button{
+  width: 100%;
+  background: #474a4d !important;
+  border: none !important;
+}

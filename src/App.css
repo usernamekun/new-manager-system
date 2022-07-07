@@ -1,0 +1,52 @@
+@import '~antd/dist/antd.css';
+
+::-webkit-scrollbar {
+  width:5px;
+  height: 5px;
+  /* position: absolute; */
+}
+/* 滚动条里面可以拖动的那个 */
+::-webkit-scrollbar-thumb {
+  background-color: #1890ff;
+}
+/* 外层轨道样式 */
+::-webkit-scrollbar-thrack {
+  background-color: #ddd;
+}
+
+.ant-layout-header{
+  padding: 0 16px !important;
+}
+.ant-modal-wrap{
+  background-color: rgba(255, 255, 255,.1);
+}
+.collection-create-form_last-form-item {
+  margin-bottom: 0;
+}
+.site-page-header {
+  border: 1px solid #ededed;
+  box-shadow: 10px 10px 10px #ededed;
+}
+.ant-steps{
+  padding: 40px 0;
+}
+.active{
+  display: none;
+}
+.rdw-editor-main{
+  border: 1px solid #000;
+  min-height: 140px;
+  padding:0 10px
+}
+.example1{
+  margin: 20px 0;
+  margin-bottom: 20px;
+  padding: 30px 50px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 4px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
