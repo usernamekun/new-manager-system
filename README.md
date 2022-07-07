@@ -1,5 +1,18 @@
 # 						全球新闻管理系统
-
+##  运行项目
+```
+npm install
+```
+### 使用到了json-server
+```
+npm install -g json-server
+```
+```
+json-server --watch ./db.json --port 8000
+```
+```
+yarn start
+```
 
 
 ## json-server
